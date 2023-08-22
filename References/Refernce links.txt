@@ -1,0 +1,26 @@
+OPEN5GS:
+
+-> OPEN5GS: https://open5gs.org/open5gs/docs/guide/01-quickstart/
+-> Network Slicing: https://www.techtarget.com/whatis/definition/network-slicing
+-> katana slice manager: https://github.com/medianetlab/katana-slice_manager
+
+SRSRAN: 
+-> SRSRAN git: https://github.com/srsran/srsRAN
+-> https://docs.srsran.com/en/latest/app_notes/source/5g_sa_COTS/source/index.html
+-> SRSRAN: https://docs.srsran.com/en/latest/app_notes/source/5g_sa_E2E/source/index.html
+-> SRSLTE: https://www.srslte.com/
+-> https://docs.srsran.com/en/latest/#:~:text=srsRAN%20is%20a%20free%20and,to%2Dend%20mobile%20wireless%20networks.
+
+UERANSIM:
+-> Github: https://github.com/aligungr/UERANSIM
+-> Sample Config: https://github.com/s5uishida/open5gs_5gc_ueransim_sample_config
+-> paper citation: O. -M. Ungureanu and C. Vlădeanu, "Leveraging the cloud-native approach for the design of 5G NextGen Core Functions," 2022 14th International Conference on Communications (COMM), Bucharest, Romania, 2022, pp. 1-7, doi: 10.1109/COMM54429.2022.9817268.
+
+DATA NETWORK:
+kamalio:
+-> kamailio: https://github.com/kamailio/kamailio
+nextcloud:
+-> https://docs.nextcloud.com/server/23/admin_manual/installation/example_ubuntu.html
+owncast:
+-> https://owncast.online/quickstart/installation/
+-> https://www.vultr.com/docs/how-to-use-owncast-with-obs-on-ubuntu-20-04/
