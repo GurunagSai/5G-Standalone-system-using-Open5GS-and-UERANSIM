@@ -23,7 +23,7 @@ Install MongoDB on Open5GS 5GC machine. The installation steps are also availabl
 - [Run Open5GS and srsRAN](#Run)
   - [Start eNB](#Startenb)
   - [Start UE (UE0)](#Startue)
-- [Ping google.com](#Testing)
+- [Testing the Network](#Testing)
 
 <h2 id="Overview"> Overview of Open5GS 5GC & srsRAN Architecture</h2>
 The following architecture has been set up in a single VM.
