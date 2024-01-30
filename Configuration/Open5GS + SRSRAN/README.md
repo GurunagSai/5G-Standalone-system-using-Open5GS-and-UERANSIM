@@ -128,7 +128,8 @@ smf:
 ~~~
 <h2 id="SrsRAN"> Changes in configuration of srsRAN</h2> 
 ### enb.conf
-  Make sure PLMN (MNC and MCC) are changed to match used by Open5gs and make sure these modifications are changed or matched as mentioned in sections below:
+
+Make sure PLMN (MNC and MCC) are changed to match used by Open5gs and make sure these modifications are changed or matched as mentioned in sections below:
   ~~~
   [enb]
   enb_id = 0x19B
@@ -268,6 +269,7 @@ slot=971, cc=0, preamble-0, offset=0, temp_crnti=0x4601
 ~~~
 
 <h2 id="Startue"> Start UE</h2>
+
 ~~~
 mobcom1@mobcom1-VirtualBox: $ sudo srsue 
 [sudo] password for mobcom1:
