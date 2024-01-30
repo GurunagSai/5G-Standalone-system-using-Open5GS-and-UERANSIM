@@ -44,9 +44,10 @@ The following explains the set up for the network
     - U-Plane1 set up in VM3
     - U-Plane2 set up in VM4
 
-    The Architecture is as follows 
+The Architecture is as follows 
 
-    ![UERANSIm architecture](https://user-images.githubusercontent.com/46021672/221929074-00198969-c0fe-49f7-b68a-fe28e1cd679f.png)
+![UERANSIM architecture](https://github.com/GurunagSai/5G-Stand-Alone-system-using-Open5GS-and-UERANSIM/assets/46021672/60ca6223-f48e-4a59-9b4c-ab8cab0f6d16)
+
 
 
 Each VMs are as follows
